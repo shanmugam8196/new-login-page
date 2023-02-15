@@ -1,0 +1,19 @@
+.signup-input{
+    border: none;
+    margin-left: 10px;
+    outline: none;
+}
+
+
+.user-div{
+    border-bottom: 2px solid black;
+
+}
+.signup-terms{
+    text-decoration:underline;
+   
+}
+.signup-link{
+    color: black !important;
+    
+}
